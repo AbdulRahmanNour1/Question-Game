@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 912c5e21571e6154ebc3a882ba9e4f7a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - QuestionText: {instanceID: 0}
+  - correctAudio: {fileID: 8300000, guid: 0e37470fab2c4ad469736b4630d23e85, type: 3}
+  - wrongAudio: {fileID: 8300000, guid: ad85da6282999394fac6e78e4220274e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
