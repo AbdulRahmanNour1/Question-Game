@@ -15,10 +15,11 @@ git clone https://github.com/AbdulRahmanNour1/Question-Game.git
 
 2. **Open the project in Unity**:
 
-- Launch Unity Hub.​[GitHub](https://github.com/arjunrajasekharan/MultiClientQuizGame?utm_source=chatgpt.com)
+- Launch Unity Hub.​
 - Click on the "Add" button and select the cloned repository folder.​
 - Open the project.​
-2. **Play the game**:
+
+3. **Play the game**:
 
 - In the Unity Editor, open the `MainScene` from the `Assets/Scenes` directory.​
 - Click the "Play" button to start the game.​
